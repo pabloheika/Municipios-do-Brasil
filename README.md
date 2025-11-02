@@ -1,4 +1,4 @@
-# Desafio 3 - JavaScript, DOM e Fetch API
+# Desafio 2 - JavaScript, DOM e Fetch API
 
 Este desafio tem como objetivo a implementação de uma tela em HTML e CSS, seguindo um layout desenvolvido para esta atividade. O layout pode ser encontrado neste [link](https://www.figma.com/file/xJGTYOuvNS3iuLr1meqx5u/Entrega-3?type=design&node-id=0%3A1&t=yyDpjMU6RozT27ZG-1) do Figma. Embora a implementação da tela em si não seja difícil, o desafio consiste em fazer com que a tabela exiba todos os municípios da UF selecionada.
 
